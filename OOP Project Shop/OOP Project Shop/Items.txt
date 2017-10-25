@@ -1,0 +1,23 @@
+1,Jeans,Jack Jones,S,Yellow,12,79.09
+2,Hat,Diesel,L,Red,18,12.0
+3,Scarf,Pennys,L,Red,65,4.0
+4,Jeans,Jack Jones,M,Black,65,69.09
+5,Jeans,Jack Jones,S,Red,65,69.99
+6,Jeans,Jack Jones,XL,White,14,69.09
+7,Shoes,Adidas,L,Black,23,100.0
+8,Jeans,Jack Jones,L,Red,65,69.09
+9,Jumper,Pennys,S,Pink,12,80.0
+10,Hoodie,Dunnes,M,Blue,85,99.0
+11,Socks,Jack Jones,XS,Yellow,36,68.65
+12,Boxers,Pennys,XL,Green,85,65.99
+13,Hat,Jack Jones,M,Black,18,12.0
+14,Shoes,Pennys,L,White,85,99.04
+15,T-shirt,Dunnes,S,Black,36,68.88
+16,Scarf,Dunnes,L,yellow,10,12.8
+17,Hat,Abercrombie,S,Pink,12,45.0
+18,Hat,Dunnes,XL,red,24,99.0
+19,Socks,Pennys,S,Red,0,12.0
+20,Boxers,River Island,XL,Yellow,85,65.99
+21,Pyjamas,Diesel,XS,Yellow,12,24.99
+22,Leggings,River Island,XXL,Black,25,12.99
+23,Hat,Adidas,s,pink,35,25.0
